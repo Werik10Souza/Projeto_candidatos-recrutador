@@ -1,13 +1,3 @@
-
-#? Werik Souza De Araujo
-#? Matrícula: 2022 0919 0591
-
-#? Pedro Maurício Lopes Baptista
-#? Matrícula: 2022 0892 3356
-
-#? Leonardo Pezzi
-#? Matrícula: 2022 1138 5645
-
 import tkinter as tk
 from tkinter import ttk
 from ttkbootstrap import Style
